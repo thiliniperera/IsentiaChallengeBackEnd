@@ -1,2 +1,7 @@
 # IsentiaChallengeBackEnd
-Backend written using Node.js for the Insentia Coding Challenge
+Backend for the Insentia Coding Challenge
+
+
+## Technologies
+Node.js
+Express.js
