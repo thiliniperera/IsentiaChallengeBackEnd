@@ -1,0 +1,19 @@
+{
+  "name": "isentiachallengebackend",
+  "version": "1.0.0",
+  "description": "Backend for Isentia Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiliniperera/IsentiaChallengeBackEnd.git"
+  },
+  "author": "Thilini Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiliniperera/IsentiaChallengeBackEnd/issues"
+  },
+  "homepage": "https://github.com/thiliniperera/IsentiaChallengeBackEnd#readme"
+}
